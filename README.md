@@ -1,1 +1,5 @@
-# desafio_backend_02_mi_repertorio
+# Desafio 2 - Mi Repertorio
+
+## Integrantes:
+
+- Claudia Villarroel
