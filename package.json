@@ -4,9 +4,9 @@
   "description": "Segundo desafio de backend - Mi Repertorio con Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node --watch app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "node app.js"
   },
   "keywords": [],
   "author": "Claudia Villarroel - Guillermo Hernandez",
